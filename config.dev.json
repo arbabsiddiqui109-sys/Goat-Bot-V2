@@ -12,14 +12,14 @@
 	"antiInbox": true,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "[ - ]Gladiator Bot",
-	"prefix": "-",
+	"nickNameBot": "[ - ] H3CK9R B0T",
+	"prefix": "💋",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100076343334427"
+		"100089130562958"
 	],
 	"nisanBot": [
 		"GROUP_ID"
